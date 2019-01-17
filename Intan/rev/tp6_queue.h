@@ -1,0 +1,7 @@
+#ifndef TP6_QUEUE_H_INCLUDED
+#define TP6_QUEUE_H_INCLUDED
+
+
+
+
+#endif // TP6_QUEUE_H_INCLUDED

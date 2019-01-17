@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1523633715 source:d:\tubes std gue\intan-master\intan\tubes_intan\cdll.cpp
+	"tubesintan.h"
+
+1523634214 d:\tubes std gue\intan-master\intan\tubes_intan\tubesintan.h
+	<cstddef>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string>
+	<cstdlib>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<cstring>
+
+1523633894 source:d:\tubes std gue\intan-master\intan\tubes_intan\dll.cpp
+	"tubesintan.h"
+
+1523071812 source:d:\tubes std gue\intan-master\intan\tubes_intan\main.cpp
+	"tubesintan.h"
+
+1523356467 source:d:\tubes std gue\intan-master\intan\tubes_intan\menu.cpp
+	"tubesintan.h"
+
+1523356871 source:d:\tubes std gue\intan-master\intan\tubes_intan\sll.cpp
+	"tubesintan.h"
+
+1523020081 source:d:\tubes std gue\intan-master\intan\tubes_intan\tubesintan.cpp
+
+1523633715 source:e:\project cpp\std18\tubes std gue\intan-master\intan\tubes_intan\cdll.cpp
+	"tubesintan.h"
+
+1523634214 e:\project cpp\std18\tubes std gue\intan-master\intan\tubes_intan\tubesintan.h
+	<cstddef>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string>
+	<cstdlib>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<cstring>
+
+1523633894 source:e:\project cpp\std18\tubes std gue\intan-master\intan\tubes_intan\dll.cpp
+	"tubesintan.h"
+
+1523071812 source:e:\project cpp\std18\tubes std gue\intan-master\intan\tubes_intan\main.cpp
+	"tubesintan.h"
+
+1523634967 source:e:\project cpp\std18\tubes std gue\intan-master\intan\tubes_intan\menu.cpp
+	"tubesintan.h"
+
+1523356871 source:e:\project cpp\std18\tubes std gue\intan-master\intan\tubes_intan\sll.cpp
+	"tubesintan.h"
+
+1523020081 source:e:\project cpp\std18\tubes std gue\intan-master\intan\tubes_intan\tubesintan.cpp
+

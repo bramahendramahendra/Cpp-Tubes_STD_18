@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1517536664 source:d:\belajar strukdat\belajarlinkedlist\singlelinkedlist\list.cpp
+	<iostream>
+	"list1.h"
+
+1517536525 d:\belajar strukdat\belajarlinkedlist\singlelinkedlist\list1.h
+	<cstddef>
+
+1517536571 source:d:\belajar strukdat\belajarlinkedlist\singlelinkedlist\main.cpp
+	<iostream>
+	"list1.h"
+

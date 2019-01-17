@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522419095 source:d:\belajar strukdat\tp3\doublelist.cpp
+	<iostream>
+	"doublelist.h"
+
+1518263095 d:\belajar strukdat\tp3\doublelist.h
+	<cstddef>
+
+1518270900 source:d:\belajar strukdat\tp3\main.cpp
+	<iostream>
+	"doublelist.h"
+

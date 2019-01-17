@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1521905587 source:d:\std praktikum\tp6\main.cpp
+	<iostream>
+	"tp6.h"
+
+1521905376 d:\std praktikum\tp6\tp6.h
+
+1521907479 source:d:\belajar strukdat\tp6\main.cpp
+	<iostream>
+	"tp6.h"
+
+1521906820 d:\belajar strukdat\tp6\tp6.h
+
+1521907958 source:d:\belajar strukdat\tp6\tp6.cpp
+	<iostream>
+	"tp6.h"
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1521905587 source:d:\std praktikum\tp6\main.cpp
+	<iostream>
+	"tp6.h"
+
+1521905376 d:\std praktikum\tp6\tp6.h
+
+1521907479 source:d:\belajar strukdat\tp6\main.cpp
+	<iostream>
+	"tp6.h"
+
+1521906820 d:\belajar strukdat\tp6\tp6.h
+
+1521907958 source:d:\belajar strukdat\tp6\tp6.cpp
+	<iostream>
+	"tp6.h"
+
+1521990554 source:e:\project cpp\std18\intan\tp6\main.cpp
+	"tp6.h"
+	"tp6_queue.h"
+
+1521990593 e:\project cpp\std18\intan\tp6\tp6.h
+	<iostream>
+
+1521990160 source:e:\project cpp\std18\intan\tp6\tp6.cpp
+	"tp6.h"
+
+1521991068 e:\project cpp\std18\intan\tp6\tp6_queue.h
+	<iostream>
+
+1521991152 source:e:\project cpp\std18\intan\tp6\tp6_queue.cpp
+	"tp6_queue.h"
+

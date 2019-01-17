@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1518840186 source:d:\belajar strukdat\tp4\main.cpp
+	<iostream>
+	"tp4.h"
+
+1518840018 d:\belajar strukdat\tp4\tp4.h
+	<cstddef>
+
+1522418279 source:d:\belajar strukdat\tp4\tp4.cpp
+	<iostream>
+	"tp4.h"
+
